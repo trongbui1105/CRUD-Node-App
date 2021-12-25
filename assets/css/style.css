@@ -233,3 +233,7 @@ table {
     color: var(--border);
 }
 
+.delete {
+    cursor: pointer;
+}
+
